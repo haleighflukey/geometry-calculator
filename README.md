@@ -1,3 +1,6 @@
+This program first displays a menu where the user can choose to pick from the area of a circle, rectangle, or triangle, or quit. 
+
+
 // geometry-calculator
 
 #include<iostream>
